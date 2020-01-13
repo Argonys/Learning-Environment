@@ -1,17 +1,24 @@
+* {
+  background-color: #d6f2f5;
+}
+
 li {
   list-style-type: circle;
 }
 
 h1 {
   color: #444a96;
+  text-align: center;
 }
 
 h2 {
   color: #829dba;
+  text-decoration: underline;
 }
 
 h3 {
   color: #3abcd1;
+  text-decoration: underline;
 }
 
 .link {
@@ -20,4 +27,8 @@ h3 {
 
 .link:hover {
   color: #7b0480;
+}
+
+.image {
+  align-self: center;
 }
