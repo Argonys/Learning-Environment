@@ -1,0 +1,23 @@
+body {
+    color: white;
+    text-align: center;
+    background-color: #0c147d;
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: #77787d;
+}
+
+.erreur {
+    font-size: 20px;
+    font-weight: bold;
+    color: #c70d16;
+}
+
+a {
+    font-size: 25px;
+}
